@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Kaggle raw data
+home-credit-default-risk/
+*.zip
+
+# Generated outputs
+outputs/
+!outputs/
+!outputs/.gitkeep
